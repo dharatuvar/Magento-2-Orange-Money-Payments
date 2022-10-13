@@ -16,4 +16,4 @@ Offer the secured payments with a hosted payment facility using Magento 2 Orange
 * Earn customers' trust.
 * Easy steps for integration with the Magento 2 store.
 
-For more information, visit : [https://meetanshi.com/magento-2-orange-money-payments.html](https://meetanshi.com/magento-2-orange-money-payments.html)
+For more information, visit : ***[https://meetanshi.com/magento-2-orange-money-payments.html](https://meetanshi.com/magento-2-orange-money-payments.html)***
